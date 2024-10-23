@@ -19,17 +19,6 @@ export default function RootLayout() {
             headerTitle: 'NewsDetails',
             presentation: 'modal'
               }} />
-              
-          <Stack.Screen name="pages/Privacy" options={{
-            presentation: 'modal',
-            headerTitle: 'Privacy',
-              }} />
-          
-          <Stack.Screen name="pages/Terms" options={{
-            presentation: 'modal',
-            headerTitle: 'Terms',
-              }} />
-
 
         </Stack>
   );
