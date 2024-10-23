@@ -3,7 +3,7 @@
     "name": "Echo News App by Benson",
     "slug": "echoNewsAppByBenson",
     "description": "Echo is a news aggregator app where you can get all your news in one place",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./src/assets/images/icon.png",
     "scheme": "echo-news-app",
