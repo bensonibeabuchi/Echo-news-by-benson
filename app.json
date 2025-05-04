@@ -53,6 +53,12 @@
       "color": "#000000",
       "androidMode": "default",
       "androidCollapsedTitle": "New notifications"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5f09be88-4c60-48b3-b6ad-538326f0093a"
     }
   }
 }
