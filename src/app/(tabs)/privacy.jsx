@@ -23,7 +23,7 @@ export default function Privacy() {
 
   <ScrollView className="p-8">
     <View className="mb-4">
-      <Text className="font-medium mb-2">1. Introduction</Text>
+      <Text className="font-medium mb-2">1.Introduction</Text>
       <Text className="text-justify text-xs">
       At ECHO, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information about you when you use our App.
       </Text>
